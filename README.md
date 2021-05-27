@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LokeshM1030
 - 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning DSA with JAVA.
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Full Stack projects.
 - 📫 How to reach me Email:Lokeshmalkani04@gmail.com
 
